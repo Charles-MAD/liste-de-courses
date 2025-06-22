@@ -4,21 +4,13 @@ Une application simple, rapide et efficace pour gérer vos listes de courses. El
 
 ## Fonctionnalités
 
-- ✅ Ajouter des articles à la liste
-- 📝 Modifier les éléments existants (optionnel selon ton app)
-- 🗑️ Supprimer des articles
-- ✔️ Marquer les articles comme achetés
-- 🔄 Sauvegarde ou persistance des données (si implémenté)
+- Ajouter un élément à la liste
+- supprimer un élément de la liste
+- Afficher la liste des achats
+- Vider la liste
+- 
 
 ## Technologies utilisées
 
-- [Langage/framework utilisé — ex: Python, JavaScript, React, etc.]
-- [Bibliothèques ou outils supplémentaires — ex: SQLite, Flask, localStorage, etc.]
+- Langage Python
 
-## Installation
-
-1. Clone le dépôt :
-
-```bash
-git clone https://github.com/ton-utilisateur/liste-de-courses.git
-cd liste-de-courses
