@@ -8,7 +8,6 @@ Une application simple, rapide et efficace pour gérer vos listes de courses. El
 - supprimer un élément de la liste
 - Afficher la liste des achats
 - Vider la liste
-- 
 
 ## Technologies utilisées
 
